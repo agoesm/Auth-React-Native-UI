@@ -9,4 +9,4 @@ In this project I'm using react-native-paper to build auth ui with login, regist
 - formik
 - yup
 
-###Video Preview
+### Video Preview
